@@ -11,7 +11,7 @@
  * Arch repos and is listed as a dependency for this build. JoyPixels is also
  * a hard dependency and makes colored fonts and emojis possible.
  */
-static char *font = "Martian:pixelsize=20:antialias=true:autohint=true";
+static char *font = "JetBrains:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = { 
     "JetBrains:pixelsize=17:antialias=true:autohint=true",
 };
